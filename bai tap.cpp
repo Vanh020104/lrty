@@ -44,5 +44,6 @@ while (first <= last)
 }
 if(first > last)
     printf("\nNot found!! %d is not present in the list.\n", search);   
+
     return0;
 }
